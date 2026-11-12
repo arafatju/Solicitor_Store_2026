@@ -810,8 +810,9 @@
                     <img src="{{ asset('gov.png') }}" alt="Government Logo">
                 </div>
                 <div class="govt-title">আইন, বিচার ও সংসদ বিষয়ক মন্ত্রণালয়</div>
-                <div class="govt-subtitle">আইন ও বিচার বিভাগ</div>
-                <div class="govt-department">বাংলাদেশ সচিবালয়, ঢাকা</div>
+                                <div class="govt-subtitle">আইন ও  বিচার বিভাগ </div>
+
+                 <div class="govt-department">সলিসিটর অনুবিভাগ </div>
             </div>
             
             <div class="warehouse-illustration">
@@ -832,7 +833,7 @@
             
             <div class="system-title">
                 ডিজিটাল স্টোর<br>
-                ম্যানেজমেন্ট সিস্টেম (version 2.0)
+                ম্যানেজমেন্ট সিস্টেম (version 2.5)
             </div>
         </div>
 
